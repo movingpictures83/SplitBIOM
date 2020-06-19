@@ -1,0 +1,2 @@
+Prefix plugins/SplitBIOM/example/
+Plugin SplitBIOM inputfile all.py outputfile output

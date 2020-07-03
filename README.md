@@ -2,7 +2,7 @@
 # Language: Python
 # Input: PY (contents of BIOM file)
 # Output: PREFIX 
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
 
 
 Split a BIOM file into multiple BIOM files, one for each phylogenetic tree level.
